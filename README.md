@@ -15,3 +15,5 @@ Use the [GitHub Discussion](https://github.com/Etherna/etherna/discussions) feat
 3. No spam. All automated messages and advertisements will be removed.
 
 4. Post in relevant sub-forums only. Messages posted in the wrong topic area can be moved or removed.
+
+5. Use only english language. Messages in any other language will be removed.
